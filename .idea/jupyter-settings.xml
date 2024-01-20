@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/TP-4.1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="argv" value=" http://localhost:8888/tree?token=729f0db0abb23bbadb0a74b7c3327bd3a0e5150e5cd8e53b" />
+              <option name="managed" value="true" />
+              <option name="sdkName" value="" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
